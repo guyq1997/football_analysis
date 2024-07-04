@@ -1,0 +1,14 @@
+name: football-cv
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+    - pandas
+    - numpy
+    - matplotlib
+    - ultralytics
+    - roboflow
+    - supervision
+  - conda
+  - conda:
+    - ipykernel 
