@@ -12,3 +12,4 @@ dependencies:
   - conda
   - conda:
     - ipykernel 
+    - opencv
